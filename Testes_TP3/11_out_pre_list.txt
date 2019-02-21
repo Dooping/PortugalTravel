@@ -1,0 +1,53 @@
+> User was registered: author1.
+
+> Welcome jb91.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Restaurant was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Hotel was registered.
+
+> Goodbye jb91.
+
+> No registered hotels in Lisbon with price by night bellow 10.
+
+> No registered hotels in Porto with price by night bellow 10.
+
+> No registered hotels in Evora with 1 stars.
+
+> No registered hotels in Porto with 1 stars.
+
+> All restaurants in Evora:
+> Ranked 1 (0 reviews): Guiao | Portuguese | $
+> Ranked 2 (0 reviews): Tipica | Portuguese | $$
+
+> All restaurants in Lisbon:
+> Ranked 1 (0 reviews): Alfaia | Portuguese | $$$
+> Ranked 2 (0 reviews): GatoPardo | Mediterranean | $
+> Ranked 3 (0 reviews): Salgadeiras | Portuguese | $$
+
+> No registered restaurants in Lisbon within price range $$$$.
+
+> No registered restaurants in Porto within price range $$$$.
+
+> No registered restaurants in Evora with cuisine Tai.
+
+> No registered restaurants in Porto with cuisine Tai.
+
+> Exiting...
+

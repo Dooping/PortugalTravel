@@ -1,0 +1,80 @@
+REGISTER AUTHOR jb91
+Jose Bitola
+Lisboa
+jb91@gmail.com
+
+LOGIN jb91 author1
+ADD HOTEL Lisbon Ritz
+The best hotel in Lisbon
+Rua Rodrigo da Fonseca
+5
+600
+ADD RESTAURANT Lisbon Alfaia
+The best restaurant in Lisbon
+Rua Diario de Noticias
+Portuguese
+$$$
+LOGOUT
+REVIEW HOTEL Lisbon Ritz
+Good
+Enjoyable stay
+Excellent
+Good
+REVIEW RESTAURANT Lisbon Alfaia
+Excellent
+Best restaurant in Lisbon
+Excellent
+Excellent
+REGISTER ADVISOR cpcurto
+Camila Pe Curto
+Cascais
+cpc@gmail.com
+
+LOGIN cpcurto advisor1
+REVIEW HOTEL Lisbon Ritzzzzz
+Good
+Enjoyable stay
+Excellent
+Good
+REVIEW HOTEL Lisbona Ritz
+Good
+Enjoyable stay
+Excellent
+Good
+REVIEW HOTEL Lisbon Ritz
+Good
+Enjoyable stay
+Excellent
+Good
+REVIEW HOTEL Lisbon Ritz
+Excellent
+Best hotel in Lisbon
+Excellent
+Excellent
+REVIEW RESTAURANT Lisbon Alfaiaaaa
+Good
+Nice food
+Good
+Excellent
+REVIEW RESTAURANT Lisbona Alfaia
+Good
+Nice food
+Good
+Excellent
+REVIEW RESTAURANT Lisbon Alfaia
+Good
+Nice food
+Good
+Excellent
+REVIEW RESTAURANT Lisbon Alfaia
+Excellent
+Best restaurant in Lisbon
+Excellent
+Excellent
+LOGOUT
+REVIEWS HOTEL Lisbon Ritz
+REVIEWS RESTAURANT Lisbon Alfaia
+RESTAURANTS ALL Lisbon
+HOTELS ALL Lisbon
+EXIT
+

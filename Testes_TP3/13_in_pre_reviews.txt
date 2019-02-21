@@ -1,0 +1,87 @@
+REGISTER AUTHOR jb91
+Jose Bitola
+Lisboa
+jb91@gmail.com
+
+LOGIN jb91 author1
+ADD HOTEL Lisbon Ritz
+The best hotel in Lisbon
+Rua Rodrigo da Fonseca
+5
+600
+ADD RESTAURANT Lisbon Alfaia
+The best restaurant in Lisbon
+Rua Diario de Noticias
+Portuguese
+$$$
+ADD HOTEL Lisbon Fenix
+Central location
+Rua Joaquim Antonio de Aguiar
+3
+80
+ADD RESTAURANT Lisbon GatoPardo
+Good food at good prices
+Rua de Sao Vicente
+Mediterranean
+$
+ADD HOTEL Lisbon Altis
+Luxo & Design a Beira Rio
+Doca do Bom Sucesso
+5
+230
+ADD RESTAURANT Lisbon Salgadeiras
+Tradicional portuguese food
+Rua das Salgadeiras
+Portuguese
+$$
+LOGOUT
+REGISTER ADVISOR cpcurto
+Camila Pe Curto
+Cascais
+cpc@gmail.com
+
+REGISTER ADVISOR smarques
+Sofia Marques
+Setubal
+sm94@campus.fct.unl.pt
+
+LOGIN cpcurto advisor1
+REVIEW HOTEL Lisbon Ritz
+Good
+Enjoyable stay
+Excellent
+Good
+REVIEW RESTAURANT Lisbon Alfaia
+Good
+Nice food
+Good
+Excellent
+REVIEW HOTEL Lisbon Fenix
+Average
+Good price
+Poor
+Good
+REVIEW RESTAURANT Lisbon GatoPardo
+Excellent
+Lovely surprise
+Good
+Excellent
+LOGOUT
+LOGIN aleitao author2
+REVIEW RESTAURANT Lisbon Salgadeiras
+Excellent
+Good experience
+Excellent
+Good
+REVIEW RESTAURANT Lisbon Alfaia
+Poor
+Not impressed...
+Poor
+Good
+LOGOUT
+REVIEWS HOTEL Evora Fenix
+REVIEWS RESTAURANT Evora Alfaia
+REVIEWS HOTEL Lisbon Alfaia
+REVIEWS RESTAURANT Lisboa Ritz
+EXIT
+

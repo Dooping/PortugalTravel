@@ -1,0 +1,117 @@
+> User was registered: author1.
+
+> Welcome jb91.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Restaurant was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Hotel was registered.
+
+> Goodbye jb91.
+
+> User was registered: author2.
+
+> Welcome aleitao.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Goodbye aleitao.
+
+> All hotels in Lisbon:
+> Ranked 1 (0 reviews): Altis | 5 | 230
+> Ranked 2 (0 reviews): Fenix | 3 | 80
+> Ranked 3 (0 reviews): Ritz | 5 | 600
+
+> All restaurants in Lisbon:
+> Ranked 1 (0 reviews): Alfaia | Portuguese | $$$
+> Ranked 2 (0 reviews): GatoPardo | Mediterranean | $
+> Ranked 3 (0 reviews): Salgadeiras | Portuguese | $$
+
+> User was registered: advisor1.
+
+> User was registered: advisor2.
+
+> Welcome cpcurto.
+
+> Review was registered.
+
+> Review was registered.
+
+> Review was registered.
+
+> Review was registered.
+
+> Goodbye cpcurto.
+
+> All hotels in Lisbon:
+> Ranked 1 (1 reviews): Ritz | 5 | 600
+> Ranked 2 (1 reviews): Fenix | 3 | 80
+> Ranked 3 (0 reviews): Altis | 5 | 230
+
+> All restaurants in Lisbon:
+> Ranked 1 (1 reviews): GatoPardo | Mediterranean | $
+> Ranked 2 (1 reviews): Alfaia | Portuguese | $$$
+> Ranked 3 (0 reviews): Salgadeiras | Portuguese | $$
+
+> Welcome aleitao.
+
+> Review was registered.
+
+> All restaurants in Lisbon:
+> Ranked 1 (1 reviews): GatoPardo | Mediterranean | $
+> Ranked 2 (1 reviews): Salgadeiras | Portuguese | $$
+> Ranked 3 (1 reviews): Alfaia | Portuguese | $$$
+
+> Goodbye aleitao.
+
+> Welcome jb91.
+
+> Review was registered.
+
+> Review was registered.
+
+> Review was registered.
+
+> Goodbye jb91.
+
+> Welcome cpcurto.
+
+> Review was registered.
+
+> Review was registered.
+
+> Goodbye cpcurto.
+
+> All restaurants in Evora:
+> Ranked 1 (1 reviews): Tipica | Portuguese | $$
+> Ranked 2 (1 reviews): Guiao | Portuguese | $
+
+> All restaurants in Lisbon:
+> Ranked 1 (1 reviews): GatoPardo | Mediterranean | $
+> Ranked 2 (1 reviews): Salgadeiras | Portuguese | $$
+> Ranked 3 (2 reviews): Alfaia | Portuguese | $$$
+
+> All hotels in Evora:
+> Ranked 1 (1 reviews): Policarpo | 2 | 40
+> Ranked 2 (1 reviews): Altis | 5 | 180
+
+> All hotels in Lisbon:
+> Ranked 1 (1 reviews): Ritz | 5 | 600
+> Ranked 2 (1 reviews): Fenix | 3 | 80
+> Ranked 3 (0 reviews): Altis | 5 | 230
+
+> Exiting...
+

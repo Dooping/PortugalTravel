@@ -1,0 +1,69 @@
+REGISTER AUTHOR jb91
+Jose Bitola
+Lisboa
+jb91@gmail.com
+
+LOGIN jb91 author1
+ADD HOTEL Lisbon Ritz
+The best hotel in Lisbon
+Rua Rodrigo da Fonseca
+5
+600
+ADD RESTAURANT Lisbon Alfaia
+The best restaurant in Lisbon
+Rua Diario de Noticias
+Portuguese
+$$$
+ADD HOTEL Lisbon Fenix
+Central location
+Rua Joaquim Antonio de Aguiar
+3
+80
+ADD RESTAURANT Lisbon GatoPardo
+Good food at good prices
+Rua de Sao Vicente
+Mediterranean
+$
+ADD HOTEL Lisbon Altis
+Luxo & Design a Beira Rio
+Doca do Bom Sucesso
+5
+230
+ADD RESTAURANT Lisbon Salgadeiras
+Tradicional portuguese food
+Rua das Salgadeiras
+Portuguese
+$$
+ADD RESTAURANT Evora Tipica
+A taste of Alentejo
+Rua do Inverno
+Portuguese
+$$
+ADD RESTAURANT Evora Guiao
+Tradicional restaurant
+Rua do Raimundo
+Portuguese
+$
+ADD Hotel Evora Altis
+Luxury & Design in a unique location
+Canaviais
+5
+180
+ADD HOTEL Evora Policarpo
+Good prices
+Rua da Freiria de Baixo
+2
+40
+LOGOUT
+HOTELS PRICE Lisbon 10
+HOTELS PRICE Porto 10
+HOTELS STARS Evora 1
+HOTELS STARS Porto 1
+RESTAURANTS ALL Evora
+RESTAURANTS ALL Lisbon
+RESTAURANTS COST Lisbon $$$$
+RESTAURANTS COST Porto $$$$
+RESTAURANTS CUISINE Evora Tai
+RESTAURANTS CUISINE Porto Tai
+EXIT
+

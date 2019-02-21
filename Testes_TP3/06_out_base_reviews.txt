@@ -1,0 +1,204 @@
+> User was registered: author1.
+
+> Welcome jb91.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Restaurant was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Hotel was registered.
+
+> Goodbye jb91.
+
+> User was registered: author2.
+
+> Welcome aleitao.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Goodbye aleitao.
+
+> User was registered: advisor1.
+
+> User was registered: advisor2.
+
+> Welcome cpcurto.
+
+> Review was registered.
+
+> Review was registered.
+
+> Review was registered.
+
+> Review was registered.
+
+> Goodbye cpcurto.
+
+> Welcome aleitao.
+
+> Review was registered.
+
+> Goodbye aleitao.
+
+> Welcome jb91.
+
+> Review was registered.
+
+> Review was registered.
+
+> Review was registered.
+
+> Goodbye jb91.
+
+> Welcome cpcurto.
+
+> Review was registered.
+
+> Review was registered.
+
+> Goodbye cpcurto.
+
+> Reviews for hotel Policarpo (by jb91):
+> Rua da Freiria de Baixo
+> Good prices
+> Overall review:
+> Excellent: 1
+> Good: 0
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Service review: Good
+> Location review: Good
+> Reviewer cpcurto (0 likes): Great hotel at a great price
+
+> Reviews for hotel Altis (by jb91):
+> Canaviais
+> Luxury & Design in a unique location
+> Overall review:
+> Excellent: 0
+> Good: 1
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Service review: Excellent
+> Location review: Good
+> Reviewer cpcurto (0 likes): Great service and location
+
+> Reviews for hotel Altis (by aleitao):
+> Doca do Bom Sucesso
+> Luxo & Design a Beira Rio
+> Overall review:
+> Excellent: 0
+> Good: 0
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Service review: Terrible
+> Location review: Terrible
+
+> Reviews for hotel Ritz (by jb91):
+> Rua Rodrigo da Fonseca
+> The best hotel in Lisbon
+> Overall review:
+> Excellent: 0
+> Good: 1
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Service review: Excellent
+> Location review: Good
+> Reviewer cpcurto (0 likes): Enjoyable stay
+
+> Reviews for hotel Fenix (by aleitao):
+> Rua Joaquim Antonio de Aguiar
+> Central location
+> Overall review:
+> Excellent: 0
+> Good: 0
+> Average: 1
+> Poor: 0
+> Terrible: 0
+> Service review: Poor
+> Location review: Good
+> Reviewer cpcurto (0 likes): Good price
+
+> Reviews for restaurant Alfaia (by jb91):
+> Rua Diario de Noticias
+> The best restaurant in Lisbon
+> Overall review:
+> Excellent: 0
+> Good: 1
+> Average: 0
+> Poor: 1
+> Terrible: 0
+> Food review: Average
+> Atmosphere review: Excellent
+> Reviewer cpcurto (0 likes): Nice food
+> Reviewer jb91 (0 likes): Not impressed...
+
+> Reviews for restaurant Salgadeiras (by aleitao):
+> Rua das Salgadeiras
+> Tradicional portuguese food
+> Overall review:
+> Excellent: 1
+> Good: 0
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Food review: Excellent
+> Atmosphere review: Good
+> Reviewer aleitao (0 likes): Good experience
+
+> Reviews for restaurant GatoPardo (by aleitao):
+> Rua de Sao Vicente
+> Good food at good prices
+> Overall review:
+> Excellent: 1
+> Good: 0
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Food review: Good
+> Atmosphere review: Excellent
+> Reviewer cpcurto (0 likes): Lovely surprise
+
+> Reviews for restaurant Tipica (by jb91):
+> Rua do Inverno
+> A taste of Alentejo
+> Overall review:
+> Excellent: 1
+> Good: 0
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Food review: Excellent
+> Atmosphere review: Good
+> Reviewer jb91 (0 likes): Best restaurant in Evora
+
+> Reviews for restaurant Guiao (by jb91):
+> Rua do Raimundo
+> Tradicional restaurant
+> Overall review:
+> Excellent: 0
+> Good: 1
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Food review: Excellent
+> Atmosphere review: Good
+> Reviewer jb91 (0 likes): Good food at a resonable price
+
+> Exiting...
+

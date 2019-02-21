@@ -1,0 +1,52 @@
+> User was registered: author1.
+
+> Welcome jb91.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Goodbye jb91.
+
+> User was registered: advisor1.
+
+> User was registered: advisor2.
+
+> Welcome cpcurto.
+
+> Review was registered.
+
+> Review was registered.
+
+> Review was registered.
+
+> Review was registered.
+
+> Goodbye cpcurto.
+
+> User does not exist.
+
+> Login to add a review.
+
+> Login to add a review.
+
+> No user is logged in.
+
+> Hotel does not exist.
+
+> Restaurant does not exist.
+
+> Hotel does not exist.
+
+> Restaurant does not exist.
+
+> Exiting...
+

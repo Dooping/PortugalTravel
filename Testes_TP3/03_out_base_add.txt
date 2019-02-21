@@ -1,0 +1,64 @@
+> User was registered: author1.
+
+> User was registered: advisor1.
+
+> Welcome jb91.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Goodbye jb91.
+
+> All hotels in Lisbon:
+> Ranked 1 (0 reviews): Ritz | 5 | 600
+
+> All restaurants in Lisbon:
+> Ranked 1 (0 reviews): Alfaia | Portuguese | $$$
+
+> User was registered: author2.
+
+> Welcome aleitao.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> All hotels in Lisbon:
+> Ranked 1 (0 reviews): Altis | 5 | 230
+> Ranked 2 (0 reviews): Fenix | 3 | 80
+> Ranked 3 (0 reviews): Ritz | 5 | 600
+
+> All restaurants in Lisbon:
+> Ranked 1 (0 reviews): Alfaia | Portuguese | $$$
+> Ranked 2 (0 reviews): GatoPardo | Mediterranean | $
+> Ranked 3 (0 reviews): Salgadeiras | Portuguese | $$
+
+> Goodbye aleitao.
+
+> Welcome jb91.
+
+> Restaurant was registered.
+
+> Restaurant was registered.
+
+> Hotel was registered.
+
+> Hotel was registered.
+
+> Goodbye jb91.
+
+> All hotels in Evora:
+> Ranked 1 (0 reviews): Altis | 5 | 180
+> Ranked 2 (0 reviews): Policarpo | 2 | 40
+
+> All restaurants in Evora:
+> Ranked 1 (0 reviews): Guiao | Portuguese | $
+> Ranked 2 (0 reviews): Tipica | Portuguese | $$
+
+> Exiting...
+

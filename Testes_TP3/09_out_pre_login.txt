@@ -1,0 +1,40 @@
+> User was registered: author1.
+
+> User was registered: advisor1.
+
+> User was registered: advisor2.
+
+> User was registered: author2.
+
+> Welcome jb91.
+
+> Goodbye jb91.
+
+> Welcome smarques.
+
+> Goodbye smarques.
+
+> Wrong password.
+
+> Wrong password.
+
+> Welcome cpcurto.
+
+> User is already logged in.
+
+> Another user is logged in.
+
+> Goodbye cpcurto.
+
+> Welcome aleitao.
+
+> User is already logged in.
+
+> Another user is logged in.
+
+> Goodbye aleitao.
+
+> No user is logged in.
+
+> Exiting...
+

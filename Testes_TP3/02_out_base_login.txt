@@ -1,0 +1,26 @@
+> User was registered: author1.
+
+> User was registered: advisor1.
+
+> User was registered: advisor2.
+
+> User was registered: author2.
+
+> Welcome jb91.
+
+> Goodbye jb91.
+
+> Welcome smarques.
+
+> Goodbye smarques.
+
+> Welcome cpcurto.
+
+> Goodbye cpcurto.
+
+> Welcome aleitao.
+
+> Goodbye aleitao.
+
+> Exiting...
+

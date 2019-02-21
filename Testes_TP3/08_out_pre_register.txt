@@ -1,0 +1,14 @@
+> User was registered: author1.
+
+> User was registered: advisor1.
+
+> User was registered: advisor2.
+
+> User was registered: author2.
+
+> Username already registered.
+
+> Username already registered.
+
+> Exiting...
+

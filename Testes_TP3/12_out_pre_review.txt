@@ -1,0 +1,70 @@
+> User was registered: author1.
+
+> Welcome jb91.
+
+> Hotel was registered.
+
+> Restaurant was registered.
+
+> Goodbye jb91.
+
+> Login to add a review.
+
+> Login to add a review.
+
+> User was registered: advisor1.
+
+> Welcome cpcurto.
+
+> Hotel does not exist.
+
+> Hotel does not exist.
+
+> Review was registered.
+
+> Review was registered.
+
+> Restaurant does not exist.
+
+> Restaurant does not exist.
+
+> Review was registered.
+
+> Review was registered.
+
+> Goodbye cpcurto.
+
+> Reviews for hotel Ritz (by jb91):
+> Rua Rodrigo da Fonseca
+> The best hotel in Lisbon
+> Overall review:
+> Excellent: 1
+> Good: 0
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Service review: Excellent
+> Location review: Excellent
+> Reviewer cpcurto (0 likes): Best hotel in Lisbon
+
+> Reviews for restaurant Alfaia (by jb91):
+> Rua Diario de Noticias
+> The best restaurant in Lisbon
+> Overall review:
+> Excellent: 1
+> Good: 0
+> Average: 0
+> Poor: 0
+> Terrible: 0
+> Food review: Excellent
+> Atmosphere review: Excellent
+> Reviewer cpcurto (0 likes): Best restaurant in Lisbon
+
+> All restaurants in Lisbon:
+> Ranked 1 (1 reviews): Alfaia | Portuguese | $$$
+
+> All hotels in Lisbon:
+> Ranked 1 (1 reviews): Ritz | 5 | 600
+
+> Exiting...
+

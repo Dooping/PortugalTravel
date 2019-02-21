@@ -1,0 +1,81 @@
+HOTELS ALL Evora
+RESTAURANTS ALL Lisbon
+REGISTER AUTHOR jb91
+Jose Bitola
+Lisboa
+jb91@gmail.com
+
+LOGIN jb91 author1
+ADD HOTEL Lisbon Ritz
+The best hotel in Lisbon
+Rua Rodrigo da Fonseca
+5
+600
+ADD RESTAURANT Lisbon Alfaia
+The best restaurant in Lisbon
+Rua Diario de Noticias
+Portuguese
+$$$
+LOGOUT
+REGISTER AUTHOR aleitao
+Antonio Leitao
+Sintra
+aleitao@gmail.com
+
+LOGIN aleitao author2
+ADD HOTEL Lisbon Fenix
+Central location
+Rua Joaquim Antonio de Aguiar
+3
+80
+ADD RESTAURANT Lisbon GatoPardo
+Good food at good prices
+Rua de Sao Vicente
+Mediterranean
+$
+ADD HOTEL Lisbon Altis
+Luxo & Design a Beira Rio
+Doca do Bom Sucesso
+5
+230
+ADD RESTAURANT Lisbon Salgadeiras
+Tradicional portuguese food
+Rua das Salgadeiras
+Portuguese
+$$
+LOGOUT
+LOGIN jb91 author1
+ADD RESTAURANT Evora Tipica
+A taste of Alentejo
+Rua do Inverno
+Portuguese
+$$
+ADD RESTAURANT Evora Guiao
+Tradicional restaurant
+Rua do Raimundo
+Portuguese
+$
+ADD Hotel Evora Altis
+Luxury & Design in a unique location
+Canaviais
+5
+180
+ADD HOTEL Evora Policarpo
+Good prices
+Rua da Freiria de Baixo
+2
+40
+HOTELS ALL Evora
+HOTELS ALL Lisbon
+HOTELS PRICE Evora 100
+HOTELS PRICE Lisbon 500
+HOTELS STARS Evora 2
+HOTELS STARS Lisbon 5
+RESTAURANTS ALL Evora
+RESTAURANTS ALL Lisbon
+RESTAURANTS COST Evora $$
+RESTAURANTS COST Lisbon $$
+RESTAURANTS CUISINE Evora Portuguese
+RESTAURANTS CUISINE Lisbon Mediterranean
+EXIT
+

@@ -1,0 +1,145 @@
+REGISTER AUTHOR jb91
+Jose Bitola
+Lisboa
+jb91@gmail.com
+
+LOGIN jb91 author1
+ADD HOTEL Lisbon Ritz
+The best hotel in Lisbon
+Rua Rodrigo da Fonseca
+5
+600
+ADD RESTAURANT Lisbon Alfaia
+The best restaurant in Lisbon
+Rua Diario de Noticias
+Portuguese
+$$$
+ADD RESTAURANT Evora Tipica
+A taste of Alentejo
+Rua do Inverno
+Portuguese
+$$
+ADD RESTAURANT Evora Guiao
+Tradicional restaurant
+Rua do Raimundo
+Portuguese
+$
+ADD Hotel Evora Altis
+Luxury & Design in a unique location
+Canaviais
+5
+180
+ADD HOTEL Evora Policarpo
+Good prices
+Rua da Freiria de Baixo
+2
+40
+LOGOUT
+REGISTER AUTHOR aleitao
+Antonio Leitao
+Sintra
+aleitao@gmail.com
+
+LOGIN aleitao author2
+ADD HOTEL Lisbon Fenix
+Central location
+Rua Joaquim Antonio de Aguiar
+3
+80
+ADD RESTAURANT Lisbon GatoPardo
+Good food at good prices
+Rua de Sao Vicente
+Mediterranean
+$
+ADD HOTEL Lisbon Altis
+Luxo & Design a Beira Rio
+Doca do Bom Sucesso
+5
+230
+ADD RESTAURANT Lisbon Salgadeiras
+Tradicional portuguese food
+Rua das Salgadeiras
+Portuguese
+$$
+LOGOUT
+REGISTER ADVISOR cpcurto
+Camila Pe Curto
+Cascais
+cpc@gmail.com
+
+REGISTER ADVISOR smarques
+Sofia Marques
+Setubal
+sm94@campus.fct.unl.pt
+
+LOGIN cpcurto advisor1
+REVIEW HOTEL Lisbon Ritz
+Good
+Enjoyable stay
+Excellent
+Good
+REVIEW RESTAURANT Lisbon Alfaia
+Good
+Nice food
+Good
+Excellent
+REVIEW HOTEL Lisbon Fenix
+Average
+Good price
+Poor
+Good
+REVIEW RESTAURANT Lisbon GatoPardo
+Excellent
+Lovely surprise
+Good
+Excellent
+LOGOUT
+LOGIN aleitao author2
+REVIEW RESTAURANT Lisbon Salgadeiras
+Excellent
+Good experience
+Excellent
+Good
+LOGOUT
+LOGIN jb91 author1
+REVIEW RESTAURANT Lisbon Alfaia
+Poor
+Not impressed...
+Poor
+Good
+REVIEW RESTAURANT Evora Tipica
+Excellent
+Best restaurant in Evora
+Excellent
+Good
+REVIEW RESTAURANT Evora Guiao
+Good
+Good food at a resonable price
+Excellent
+Good
+LOGOUT
+LOGIN cpcurto advisor1
+REVIEW Hotel Evora Altis
+Good
+Great service and location
+Excellent
+Good
+REVIEW HOTEL Evora Policarpo
+Excellent
+Great hotel at a great price
+Good
+Good
+LOGOUT
+LIKE REVIEW Evora Altis cpcurto
+LIKE REVIEW Evora Tipica jb91
+LIKE REVIEW Evora Altis cpcurto
+LIKE REVIEW Lisbon Alfaia jb91
+LIKE REVIEW Evora Altis cpcurto
+LIKE REVIEW Lisbon Fenix cpcurto
+LIKE REVIEW Lisbon Alfaia jb91
+LIKE REVIEW Lisbon Alfaia cpcurto
+REVIEWS HOTEL Evora Altis
+REVIEWS RESTAURANT Evora Tipica
+REVIEWS RESTAURANT Lisbon Alfaia
+EXIT
+

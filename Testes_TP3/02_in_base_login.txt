@@ -1,0 +1,30 @@
+REGISTER AUTHOR jb91
+Jose Bitola
+Lisboa
+jb91@gmail.com
+
+REGISTER ADVISOR cpcurto
+Camila Pe Curto
+Cascais
+cpc@gmail.com
+
+REGISTER ADVISOR smarques
+Sofia Marques
+Setubal
+sm94@campus.fct.unl.pt
+
+REGISTER AUTHOR aleitao
+Antonio Leitao
+Sintra
+aleitao@gmail.com
+
+LOGIN jb91 author1
+LOGOUT
+LOGIN smarques advisor2
+LOGOUT
+LOGIN cpcurto advisor1
+LOGOUT
+LOGIN aleitao author2
+LOGOUT
+EXIT
+
